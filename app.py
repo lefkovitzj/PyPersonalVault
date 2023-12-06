@@ -1,8 +1,8 @@
 """
 	Author: AaronTook (https://AaronTook.github.io)
 	Version: 1.0.0
-	Version Launch Date: 12/1/2023
-	File Last Modified: 12/1/2023
+	Version Launch Date: 12/5/2023
+	File Last Modified: 12/5/2023
 	Project Name: PyPersonalVault
 	File Name: app.py
 """
