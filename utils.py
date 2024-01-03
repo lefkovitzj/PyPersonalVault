@@ -81,7 +81,7 @@ def decrypt_with(data_file_location, output_file_location, key_file_location, pa
 # Detirmine if the application has available or necessary updates if online return a boolean and a string representing status and description.
 def needs_update(current_data):
 	try:
-		data_url = "https://github.com/AaronTook/PyPersonalVaultmain/application_data.json"
+		data_url = current_data["app_source_url"]
 		data = requests.get(data_url).json()
 		newest_version = data["version"]
 		current_version = current_data["version"]
