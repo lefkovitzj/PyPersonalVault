@@ -5,7 +5,7 @@ PyPersonalVault is a file encryption application built in Python. It allows user
 The graphical user interface (GUI) is built with TKinter and CustomTkinter (pip install customtkinter). Cryptographic algorithms are sourced from the RSA, AES, and SHA3_256 portions of the PyCryptodome package (pip install pycryptodomex), and various Python Standard Library modules are used throughout. Many thanks to the developers of and contributors to these excellent tools!
 
 
-Currently on version 1.0.0, PyPersonal Vault allows creation of multiple vaults, file encryption using a specific vault and password, and file decryption using the same vault and password used in encrypting the file. 
+Currently on version 1.0.1, PyPersonal Vault allows creation of multiple vaults, file encryption using a specific vault and password, and file decryption using the same vault and password used in encrypting the file. 
 
 
 Possible features for future updates to PyPersonalVault include:
