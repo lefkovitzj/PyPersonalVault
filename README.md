@@ -6,7 +6,7 @@ The graphical user interface (GUI) is built with TKinter and CustomTkinter (pip 
 
 
 Currently on version 1.0.1, PyPersonal Vault allows creation of multiple vaults, file encryption using a specific vault and password, and file decryption using the same vault and password used in encrypting the file. 
-If you are interested in a lighter-weight alternative to this application check out my <a href="https://github.com/AaronTook/PyCrypter">PyCrypter project</a> as well!
+If you are interested in a lighter-weight alternative to this application check out my <a href="https://github.com/lefkovitzj/PyCrypter">PyCrypter project</a> as well!
 
 
 Possible features for future updates to PyPersonalVault include:
